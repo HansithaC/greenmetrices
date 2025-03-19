@@ -1,4 +1,4 @@
-# greenmetrices
+# Greenmetrices
 Welcome to GreenMetrics, a web-based application designed to monitor and optimize system energy consumption for a greener future. This project provides valuable insights into your system's performance metrics and helps in making eco-friendly decisions.
 
 ## Features
